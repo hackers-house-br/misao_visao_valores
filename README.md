@@ -4,7 +4,7 @@
 # Visão
 > "Ser uma comunidade referência em seu conteúdo tecnológico de alta qualidade e acessível a todos no Brasil."
 
-# Valore
+# Valores
 - Respeito
 - Comprometimento
 - Igualdade
